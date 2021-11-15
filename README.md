@@ -88,3 +88,32 @@ Group Name : Numberone
         * Grop by (pandas) 
         * [PD] save ตารางเอาไปใช้ที่อื่น
         * [PD]การสร้างตาราง
+## บทที่ 4
+   * [Data Warehousing and On-line Anaalytical Processing](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_4.pdf)
+     * Data Warehouse : Basic concepts
+     * Data Warehouse Mining : Data Cube and OLAP
+       * OLTP vs. OLAP
+       * Data Cubes
+     * Data Warehouse Disng and Usage
+     * Data Warehouse Implementation
+## บทที่ 5
+#### Lecture
+   * [สรุปเนื้อหา chapter 6](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_6.pdf)
+#### Googlecolab  
+   * [Association Rules](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
+     * Besic Concepts
+       * K-itemsets
+       * ลบ records ที่ถูก cancel ออกไป
+       * Plot graph of Itemsets
+       * Frequence Itemsets to Association Rule
+     * Efficient Pattern Mining Methods
+       * Apriori
+       * Support
+
+
+
+
+
+
+
+
