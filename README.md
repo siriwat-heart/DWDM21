@@ -109,7 +109,30 @@ Group Name : Numberone
      * Efficient Pattern Mining Methods
        * Apriori
        * Support
-
+## บทที่ 6
+   * ประกอบด้วย 3 ส่วนย่อย ดังนี้
+     * [Desition Tree](https://github.com/siriwat-heart/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+       * Load Data
+       * Train Model
+         * import(เรียกใช้ algorithm ที่เราต้องการ)
+         * define (กำหนด paramiters ให้กับ model)
+         * train (ฝึกสอนตัวแบบ)
+       * plot tree
+       * Evaluation
+         * Random
+       * Advanced Tree
+         * import
+         * Define
+         * Train
+       * TEST
+       * Start here
+         * mport
+         * Define
+         * Train
+         * Evaluate
+       * HW
+     * [KNN](https://github.com/siriwat-heart/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+       
 
 
 
