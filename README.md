@@ -132,7 +132,29 @@ Group Name : Numberone
          * Evaluate
        * HW
      * [KNN](https://github.com/siriwat-heart/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
-       
+       * Load data
+       * Split Data
+       * Train Model
+         * import
+         * knn1
+         * knn2
+         * knn3 
+       * Retrain & Evaluate
+       * Neural Network
+         * import
+         * Define
+         * Train - Test
+         * ANN 2
+         * ANN 3
+     * [Evaluation](https://github.com/siriwat-heart/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+       * Load data
+       * เเบ่ง Data
+       * สร้าง Model ทำนาย
+         * import
+         * Define
+         * Train
+       * Evaluation
+  
 
 
 
