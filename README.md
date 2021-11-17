@@ -154,8 +154,32 @@ Group Name : Numberone
          * Define
          * Train
        * Evaluation
+## บทที่ 7
+#### Lecture
+   * [สรุปเนื้อหา Classifier](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_8_Classifier.ipynb)
+#### Googlecolab  
   
-
+  
+  * [Association Rules](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
+     K-means
+Generate Data
+Explore Data
+Clustering
+import
+Define
+Fit-Predict
+Exanple Application (Color Quantization)
+นับจำนวนสี
+จัดกลุ่มให้เหลือ 16 สี
+แปลงข้อมูลให้อยู่ในรูป row-column
+ใช้ centroid เป็นตัวแทนของสี
+แทนสีคืนลงไป
+Hierachical Clustering
+Clustering Evaluation
+Cluster Analysis:Basic Concepts and Methods
+K-Means คืออะไร?
+Clustering แบบลำดับชั้น
+Cluster ที่ดี มี 4 ข้อ อะไรบ้าง?
 
 
 
