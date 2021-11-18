@@ -176,9 +176,9 @@ Group Name : Numberone
      * Hierachical Clustering
      * Clustering Evaluation
    * [Cluster Analysis:Basic Concepts and Methods](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_10.pdf)
-     * K-Means คืออะไร?
+     * K-Means เป็นอย่างไร
      * Clustering แบบลำดับชั้น
-     * Cluster ที่ดี มี 4 ข้อ อะไรบ้าง?
+     * Cluster ที่ดี
 ## MiniExam
    * [Mid Term](https://github.com/siriwat-heart/DWDM21/blob/main/MiniExam.ipynb)
 ## Project
