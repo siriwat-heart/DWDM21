@@ -156,33 +156,53 @@ Group Name : Numberone
        * Evaluation
 ## บทที่ 7
 #### Lecture
-   * [สรุปเนื้อหา Classifier](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_8_Classifier.ipynb)
+   * [สรุป Classifier](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_8_Classifier.ipynb)
+   * [Homeworks InfoD](https://github.com/siriwat-heart/DWDM21/blob/main/Homeworks_InfoD.ipynb) 
 #### Googlecolab  
-  
-  
-  * [Association Rules](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
-     K-means
-Generate Data
-Explore Data
-Clustering
-import
-Define
-Fit-Predict
-Exanple Application (Color Quantization)
-นับจำนวนสี
-จัดกลุ่มให้เหลือ 16 สี
-แปลงข้อมูลให้อยู่ในรูป row-column
-ใช้ centroid เป็นตัวแทนของสี
-แทนสีคืนลงไป
-Hierachical Clustering
-Clustering Evaluation
-Cluster Analysis:Basic Concepts and Methods
-K-Means คืออะไร?
-Clustering แบบลำดับชั้น
-Cluster ที่ดี มี 4 ข้อ อะไรบ้าง?
-
-
-
-
-
+   * [Clustering](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_10.pdf)
+     * K-means
+       * Generate Data
+       * Explore Data
+       * Clustering
+         * import
+         * Define
+         * Fit-Predict
+       * Exanple Application (Color Quantization)
+         * นับจำนวนสี
+         * จัดกลุ่มให้เหลือ 16 สี
+         * แปลงข้อมูลให้อยู่ในรูป row-column
+         * ใช้ centroid เป็นตัวแทนของสี
+         * แทนสีคืนลงไป
+     * Hierachical Clustering
+     * Clustering Evaluation
+   * [Cluster Analysis:Basic Concepts and Methods](https://github.com/siriwat-heart/DWDM21/blob/main/Chapter_10.pdf)
+     * K-Means คืออะไร?
+     * Clustering แบบลำดับชั้น
+     * Cluster ที่ดี มี 4 ข้อ อะไรบ้าง?
+## MiniExam
+   * [Mid Term](https://github.com/siriwat-heart/DWDM21/blob/main/MiniExam.ipynb)
+## Project
+   * [Project Final](https://github.com/siriwat-heart/DWDM21/blob/main/Project_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94.ipynb)
+     * ที่มาของข้อมูล
+     * ตรวจสอบค่า missing และลบค่า missing
+     * รวมตารางหาจังหวัดต้นทางต้นทาง
+     * รวมตารางหาจังหวัดปลายทาง
+     * รวมตารางต้นทางและปลายทาง
+     * Challenge
+     * 1.ทำนายประเภทรถไฟที่จะเลือกใช้บริการ โดยใช้ระยะทางระหว่างสถานี จำนวนนักท่องเที่ยวในจังหวัดต้นทาง จำนวนนักท่องเที่ยวในจังหวัดปลายทาง
+       * Classification
+       * Decision Tree
+       * KNN
+       * Neural Network
+       * Retain & Evaluate
+       * Evaluation
+       * Data Visualization
+     * 2.แบ่งกลุ่มข้อมูลรถไฟขาเข้าที่มี ลองจิจูด(column : X) และ ละติจูด (column : Y) ที่ใกล้กันจำนวน 6 กลุ่ม
+       * สถานีต้นทาง
+       * สถานีปลายทาง
+       * เช็คความถูกต้อง
+     * 3.หาจังหวัดที่มีรถไฟขาเข้ามากที่สุด
+       * Plot กราฟ
+       * สรุป
+ * [PowerPoint](https://github.com/siriwat-heart/DWDM21/blob/main/NUMBERONE.pdf)
 
